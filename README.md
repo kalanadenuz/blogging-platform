@@ -1,2 +1,2 @@
-# blogging-platform
+# Blogging-platform
 Blogging Platform Web Development Project
