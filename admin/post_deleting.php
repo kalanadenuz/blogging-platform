@@ -1,0 +1,1 @@
+# This php file contains the script for deleting posts.

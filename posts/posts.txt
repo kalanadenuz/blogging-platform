@@ -1,0 +1,1 @@
+This folder contains all code files for posts displaying page.

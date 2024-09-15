@@ -1,0 +1,1 @@
+# This php file contains the design of logout page.

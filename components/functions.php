@@ -1,0 +1,1 @@
+# This php file contains the common functions across the website

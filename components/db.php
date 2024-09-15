@@ -1,0 +1,1 @@
+# This php file connects database in to website
