@@ -1,1 +1,0 @@
-# This php file contains the design of editing posts page.

@@ -1,1 +1,6 @@
-# This php file contains the design of logout page.
+<?php 
+require 'constants.php';
+//destroy all session and redirect user to home page
+session_destroy();
+header('location: '.ROOT_URL);
+die();

@@ -1,1 +1,0 @@
-# This php file contains the design of page: posts displayed category wise.

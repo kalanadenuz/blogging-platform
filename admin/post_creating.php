@@ -1,1 +1,0 @@
-# This php file contains the design of creating new posts page.
